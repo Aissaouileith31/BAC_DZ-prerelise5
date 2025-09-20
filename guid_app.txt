@@ -1,0 +1,6 @@
+this is the main gui desine cide in the app 
+
+use the guid for frame in lessons.py and more info home.py
+the main file that are responsable for runing the app is the BAC_DZ.py
+file 
+the subject guid folder is in arabic 
